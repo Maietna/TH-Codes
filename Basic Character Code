@@ -1,0 +1,98 @@
+<!--Code by Maietna
+ 
+ You can:
+ Edit the code however you want
+ Use parts for other pages
+ 
+ You cannot:
+ Remove my watermark/claim as your own
+ 
+ I dont know how easy it is to edit my code, so I'd reccomend not messing with it to much besides changing color, text, images, ect unless you know what you're doing. If you like this, consider checking out my Ko-fi, which has P2U code and other goodies.
+ -->   
+<div class="container p-0" style="border:solid 2px black; height:600px; width:500px; border-radius:5px; overflow:hidden; background-color:#232923">
+	<div class="container collapse show" id="toggle">
+		<div class="container flex-row px-2">
+<!--Thumbnail/Headshot Image-->
+			<div class="container my-2" style="border:solid 2px black; height:300px; width:40%; background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/52929597_Tyb0kEhyRODlVnu.png); background-size: 355px; background-position:top; border-radius:5px"></div>
+<!--Info Section-->
+			<div class="container-fluid my-2 p-0 ml-2" style="width:60%">
+				<div class="container-fluid p-0" style="border:solid 2px black; height:135px; background-color:#353422; border-radius:5px">
+					<table style="border-style:none;">
+						<tr>
+							<td style="width:25%;color:#74845d"> NAME </td>
+							<td style="width:25%;color:#c3caba"> --- </td>
+							<td style="width:25%;color:#74845d"> PRONOUNS </td>
+							<td style="width:25%;color:#c3caba"> --- </td>
+						</tr>
+					</table>
+					<table style="border-style:none">
+						<tr>
+							<td style="width:25%;color:#74845d"> DOB </td>
+							<td style="width:25%;color:#c3caba"> --- </td>
+							<td style="width:25%;color:#74845d"> SPECIES </td>
+							<td style="width:25%;color:#c3caba"> --- </td>
+						</tr>
+					</table>
+					<table style="border-style:none">
+						<tr>
+							<td style="width:25%; color:#74845d;"> AGE </td>
+							<td style="width:25%;color:#c3caba"> --- </td>
+							<td style="width:25%;color:#74845d"> OCCUPATION </td>
+							<td style="width:25%;color:#c3caba"> --- </td>
+						</tr>
+					</table>
+				</div>
+<!--Info Section End-->
+<!--Trivia Section-->
+				<div class="container mx-0 p-1 my-1" style="height:35px; border-style:none outset outset outset; border-width:4px; border-color:#4d5443; font-size:20px; background-color:#495637; color:#c3caba; border-radius:5px">TRIVIA</div>
+				<div class="container p-0" style="border:solid 2px black; height:120px; background-color:#353422; overflow-y:auto; border-radius:5px">
+					<ul style="color:#c3caba">
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+				</div>
+<!--Trivia Section End-->
+			</div>
+		</div>
+<!--Written Blurb Section-->
+		<div class="container mx-2 p-1" style="height:45px; width:97%; border-style:none outset outset outset; border-width:4px; border-color:#4d5443; font-size:30px; background-color:#495637; color:#c3caba; border-radius:5px"><i class="fa-thin fa-trees" style="color: #c3caba;"></i>NAME</div>
+		<div class="container mx-2 my-1 p-2" style="height:175px; width:97%; border:solid 2px black; background-color:#353422; color:#c3caba; border-radius:5px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</div>
+<!--Written Blurb Section End-->
+	</div>
+	<div class="container text-center pt-2 my-2" style="height:45px; width:97%; border:solid 2px black; background-color:#495637; padding-x:100px; border-radius:5px">
+		<a class="btn p-1" style="width:25%; margin:auto; background-color:#353422" data-toggle="collapse" href="#toggle">
+			<i class="fa-solid fa-grip-lines" style="color: #c3caba;"></i>
+			<i class="fa-solid fa-arrows-to-eye" style="color: #c3caba;"></i>
+			<i class="fa-solid fa-grip-lines" style="color: #c3caba;"></i>
+		</a>
+	</div>
+	<div class="container">
+<!--Refrence Section-->
+		<div class="container mx-0 p-1 my-1" style="height:45px; border-style:none outset outset outset; border-width:4px; border-color:#4d5443; font-size:30px; background-color:#495637; color:#c3caba; border-radius:5px">REFRENCE SHEET</div>
+		<div class="container flex-row px-0">
+<!--Refrence Image-->
+			<div class="container my-2 p-0" style="border:solid 2px black; width:65%; border-radius:5px; background-color:#353422"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/66891917_V7IveGehlcdmyxC.png"></div>
+			<div class="container-fluid my-2 p-0 ml-2" style="width:35%;">
+<!--Design Section-->
+				<div class="container mx-0 p-1 my-1" style="height:35px; border-style:none outset outset outset; border-width:4px; border-color:#4d5443; font-size:20px; background-color:#495637; color:#c3caba; border-radius:5px">DESIGN NOTES</div>
+				<div class="container" style="border: solid 2px black; background-color:#353422; border-radius: 5px; height: 340px; overflow-x:auto">
+					<ul style="color:#c3caba; padding: px">
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+				</div>
+			</div>
+<!--Design Section End-->
+		</div>
+		<div class="container" style="border: solid 2px black; border-radius: 5px; height:65px;background-color:#353422;background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/66892555_XakgAW86Sxn4fFx.png); background-size:465px; background-repeat:no-repeat"></div>
+	</div>
+</div>
+<!--Credits Section *Do No Remove*-->
+<div class ="container p-0 my-3 " style="border:solid 2px black; height:30px; width:150px; border-radius:5px; overflow:hidden; background-color:#232923; text-align:center">
+    <div class="container flex-row px-2 text-center" style="color: #c3caba">
+        <div style="color: #c3caba"> Code By <a href="https://toyhou.se/Maietna" style="color: #74845d;">Maietna</a>
+        </div>
+    </div>
+</div>
