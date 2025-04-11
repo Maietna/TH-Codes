@@ -1,3 +1,26 @@
+<div class="container p-0 w-50 bg-dark text-white rounded">
+    <div class="row no-gutters">
+        <div class="col-3 bg-primary rounded m-1 p-1">
+            <a class="btn btn-block bg-dark mb-1" href="#" role="button">Help</a>
+            <a class="btn btn-block bg-dark mb-1" href="https://toyhou.se/Maietna/characters/folder:4156143" role="button">More Code</a>
+            <a class="btn btn-block bg-dark mb-1" href="https://ko-fi.com/maietna" role="button"><i class="fa-regular fa-mug-hot"></i></a>
+            <a class="btn btn-block bg-dark mb-1" href="https://github.com/Maietna/TH-Codes/blob/main/Windows%2095" role="button"><i class="fa-solid fa-code"></i></a>
+        </div>
+        <div class="col bg-primary rounded m-1 p-1">
+            <div class="card">
+                <div class="card-header bg-dark p-2"><p class="text-uppercase text-center font-weight-bold">Important</p></div>
+                <div class="card-body bg-dark p-2" style="font-size:12.5px"><p class="text-center">
+                    If you like my code, please consider donating to my Ko-fi. I also have a variety of Pay-to-Use code avaliable as well as offering custom coding.
+                    <br><br>
+                    This code is: <span class="text-center font-weight-bold">Free to Use</span>
+                    <br>
+                    This code is:  <span class="text-center font-weight-bold">Not Mobile Freindly</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
 <!--Code by Maietna
  
  You can:
@@ -19,8 +42,8 @@
 	<div class="row no-gutters" style="background-color:#CFCFCF">
 		<div class="col p-2" style="border: solid; border-color:black">
         <!--Row One-->
-			<img src="https://i.pinimg.com/736x/36/e2/75/36e275e0148c1ef01e77f07abed5705a.jpg" style="width:75%; display:block; margin-left: auto; margin-right: auto;">
-			<p class="m-2 text-center font-weight-bold" style="font-size: 20px; color: #0A1583">Name</p>
+			<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/59865398_zx37EJrGnT5bnXc.jpg" style="width:85%; display:block; margin-left: auto; margin-right: auto; border: 3px solid #181818">
+			<p class="m-2 text-center font-weight-bold" style="font-size: 20px; color: #0A1583">NAME</p>
 			<hr style="border-top: 3px solid #181818; margin: 5px">
 			<!--Table-->
 			<div class="p-2">
@@ -66,7 +89,7 @@
 		<div class="col" style="border: solid; border-color:black">
 		    <!--About-->
 			<p class=" m-1 text-center font-weight-bold" style="font-size: 18px; color:#0A1583">About</p>
-			<p style="height: 200px; overflow: scroll; padding:5px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+			<p style="height: 250px; overflow: scroll; padding:5px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
 			<hr style="border-top: 3px solid #181818; margin: 5px">
 			<!--Likes-->
 			<p class=" m-1 text-center font-weight-bold" style="font-size: 18px; color:#0A1583">Likes</p>
@@ -105,9 +128,9 @@
 			<hr style="border-top: 3px solid #181818; margin: 5px">
 			<!--Playlist-->
 			<p class="m-1 text-center font-weight-bold mb-3" style="font-size: 18px; color:#0A1583">Playlist</p>
-			<div style="height: 350px; overflow: scroll;">
+			<div style="height: 375px; overflow: scroll;">
 				<div class="container">
-					<img src="https://i.pinimg.com/736x/36/e2/75/36e275e0148c1ef01e77f07abed5705a.jpg" style="width:50%; display:block; float: left;">
+					<img src="https://upload.wikimedia.org/wikipedia/en/3/31/A_Day_at_the_Races_%28Queen%29.jpg" style="width:50%; display:block; float: left;">
 					<p class="font-weight-bold">Title</p>
 					<div>Band Name</div>
 					<i class="fa-solid fa-play-pause"></i>
@@ -115,7 +138,7 @@
 				<br>
 				<br>
 				<div class="container">
-					<img src="https://i.pinimg.com/736x/36/e2/75/36e275e0148c1ef01e77f07abed5705a.jpg" style="width:50%; display:block; float: left;">
+					<img src="https://i.scdn.co/image/ab67616d0000b273938fa1b1ee50acdc57396e2f" style="width:50%; display:block; float: left;">
 					<p class="font-weight-bold">Title</p>
 					<div>Band Name</div>
 					<i class="fa-solid fa-play-pause"></i>
@@ -123,14 +146,14 @@
 				<br>
 				<br>
 				<div class="container">
-					<img src="https://i.pinimg.com/736x/36/e2/75/36e275e0148c1ef01e77f07abed5705a.jpg" style="width:50%; display:block; float: left;">
+					<img src="https://i.scdn.co/image/ab67616d0000b27362d0614b5dffca14a302b427" style="width:50%; display:block; float: left;">
 					<p class="font-weight-bold">Title</p>
 					<div>Band Name</div>
 					<i class="fa-solid fa-play-pause"></i>
 				</div><br>
 				<br>
 				<div class="container">
-					<img src="https://i.pinimg.com/736x/36/e2/75/36e275e0148c1ef01e77f07abed5705a.jpg" style="width:50%; display:block; float: left;">
+					<img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Money_%28The_Drums_song%29.jpg" style="width:50%; display:block; float: left;">
 					<p class="font-weight-bold">Title</p>
 					<div>Band Name</div>
 					<i class="fa-solid fa-play-pause"></i>
