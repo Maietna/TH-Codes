@@ -1,0 +1,38 @@
+<!--
+HOW THIS WORKS!!!
+Basiclly, this is a clickable map, with each section leading to a different folder, ideally a creative way to store your OC's based on where they live. Since I dont have to much experieance with this, and I dont know how TH will react to this code, please follow the directions thoughout the code very carefully.
+
+Link each folder to their respective buttons, under the section href. Make sure to replace # with link. Do not include the # in the final.
+
+If you have any problems, please ask them in the comment section so the anwser will be public for everyone. I also wanna see how you use my code!
+
+RULES
+You can:
+-Edit the code however you want
+ 
+You cannot:
+-Remove my watermark/claim as your own
+-Use parts for other pages(although I dont know why you'd want to)
+-->
+<div class="container p-0">
+    <img src="https://i.pinimg.com/736x/50/1d/96/501d96461d2e22fd110b1d404677b0f2.jpg" style="width:1000; display: block; margin-left: auto; margin-right: auto;">
+        <!-- Ice Kingdom -->
+        <a type="button" class="btn p-3" href="#" style="background-color: #88a3ce; border: none; position:relative; left:370px; bottom: 450px; z-index:1; border-radius:100px"></a>
+        <!-- Sky Kingdom -->
+        <a type="button" class="btn p-3" href="#" style="background-color: #88a3ce; position:relative; left:520px; bottom: 400px; z-index:1; border-radius:100px"></a>
+        <!-- Kingdom of Sand -->
+        <a type="button" class="btn p-3" href="#" style="background-color: #88a3ce; position:relative; left:300px; bottom: 215px; z-index:1; border-radius:100px"></a>
+        <!-- Mud Kingdom -->
+        <a type="button" class="btn p-3" href="#" style="background-color: #88a3ce; position:relative; left:550px; bottom: 235px; z-index:1; border-radius:100px"></a>
+        <!-- Kingdom of the Sea -->
+        <a type="button" class="btn p-3" href="#" style="background-color: #88a3ce; position:relative; left:630px; bottom: 350px; z-index:1; border-radius:100px"></a>
+        <!-- Rainforest Kingdom -->
+        <a type="button" class="btn p-3" href="#" style="background-color: #88a3ce; position:relative; left:460px; bottom: 140px; z-index:1; border-radius:100px"></a>
+</div>
+<!--Credits Section *Do No Remove*-->
+<div class ="container p-0 bg-dark" style="height:30px; width:150px; border-radius:5px; overflow:hidden; text-align:center">
+    <div class="container row no-gutters bg-primary text-light">
+        <div style="text-align:center"> Code By <a href="https://toyhou.se/Maietna" class="text-dark">Maietna</a>
+        </div>
+    </div>
+</div>
