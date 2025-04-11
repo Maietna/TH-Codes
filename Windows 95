@@ -141,9 +141,9 @@
 </div>
 <br>
 <!--Credits Section *Do No Remove*-->
-<div class ="container p-0" style="height:30px; width:150px; border-radius:5px; overflow:hidden; text-align:center; background-color:#0A1583">
-    <div class="container row no-gutters text-light" style="background-color:#CFCFCF">
-        <div style="text-align:center; color:#181818"> Code By <a href="https://toyhou.se/Maietna" style="color:#0A1583">Maietna</a>
+<div class ="container p-0 my-3 " style="border:solid 2px #181818; height:30px; width:150px; border-radius:5px; overflow:hidden; background-color:#CFCFCF; text-align:center">
+    <div class="container row no-gutters">
+        <div style="color: #0A1583; text-align:center"> Code By <a href="https://toyhou.se/Maietna" style="color: #181818;">Maietna</a>
         </div>
     </div>
 </div>
