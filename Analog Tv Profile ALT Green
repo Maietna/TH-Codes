@@ -1,0 +1,90 @@
+<!--Code by Maietna
+ You can:
+ Edit the code however you want
+ Use parts for other pages(please still credit me)
+ 
+ You cannot:
+ Remove my watermark/claim as your own
+ 
+ I dont know how easy it is to edit my code, so I'd reccomend not messing with it to much besides changing color, text, images, ect unless you know what you're doing. If you like this, consider
+ checking out my Ko-fi, which has P2U code and other goodies. If you have any problems, please ask them in the comment section so the anwser will be public for everyone. Id also love to see what you 
+ do with my code!
+ 
+Color List
+#397c53
+#234c32
+#C1F32E
+#091e17
+#3FE1C4
+
+-->
+	<div class="container p-0" style="width:30%; height: 400px; font-family: Monospace; color:#C1F32E">
+		<div class="container p-2" style="border:3px solid #091e17; background-color:#234c32; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); font-size:25px;">
+			<table style="width:100%; border:none">
+				<tr>
+					<th style="opacity: .75; background-color:transparent">Username</th>
+					<th style="opacity: .75; background-color:transparent; text-align:right; font-size:18px">
+						<a type="button" class="btn" href="#" style="background-color:#C1F32E; color: #234c32; opacity:.75; padding:4px"><i class="fa-brands fa-x-twitter"></i></a>
+						<a type="button" class="btn" href="#" style="background-color:#3FE1C4; color: #234c32; opacity:.75; padding:4px"><i class="fa-solid fa-paintbrush"></i></a>
+						<a type="button" class="btn" href="#" style="background-color:#C1F32E; color: #234c32; opacity:.75; padding:4px"><i class="fa-brands fa-tumblr"></i></a>
+						<a type="button" class="btn" href="#" style="background-color:#3FE1C4; color: #234c32; opacity:.75; padding:4px"><i class="fa-brands fa-instagram"></i></a>
+					</th>
+				</tr>
+			</table>
+		</div>
+		<div class="row no-gutters">
+			<div class="col-6">
+				<div style="height:150px; overflow:scroll; padding: 5px; border: 3px solid #091e17; background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png);"><span style="opacity:.75">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</span></div>
+				<div class="container p-0" style="border:3px solid #091e17;">
+					<table style="width:100%; border:none">
+						<tr>
+							<th style="background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); padding:0px 5px"><span style="opacity:.75">Comissions</span></th>
+							<th style="background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); padding:0px 5px"><span style="opacity:.75">✔</span></th>
+						</tr>
+						<tr>
+							<th style="background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); padding:0px 5px"><span style="opacity:.75">Trades</span></th>
+							<th style="background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); padding:0px 5px"><span style="opacity:.75">✔</span></th>
+						</tr>
+						<tr>
+							<th style="background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); padding:0px 5px"><span style="opacity:.75">Requests</span></th>
+							<th style="background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); padding:0px 5px"><span style="opacity:.75">✗</span></th>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div class="col p-2" style="border:3px solid #091e17; background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png);">
+				<div class="container p-0">
+					<img src="https://i.pinimg.com/originals/1a/0c/3a/1a0c3aadd792e99a236d74df607a8873.gif" style="border-radius:3px; opacity:.85; border:2px solid #3FE1C4">
+				</div>
+			</div>
+		</div>
+		<div class="p-1 w-100" style="border: 3px solid #091e17; background-color:#234c32; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png);">
+			<div class="row no-gutters pt-1">
+				<div class="container w-auto">
+					<img src="https://previews.dropbox.com/p/thumb/ACmRB0AulD0FwhqtMAn8gCu2K2bAQeySCN37CYG0yGPRcNk_cra6Kai45-fsn7_BmpP5pqKXVqMm5Ar2bXR4ZSZ1XFBRDS0FYfBLkc6rtfxvJnWJYEHgo_RGLCZSDh7LCLBNCD_fwlPpSf0WdoFnonOdKVXKb7sPNQZqOdrO2dDZrwWHOxzMJjkBX32BqYI8pVb6cqUS4tYHFoBjtP6yR_dweSu6e6bXPqRn3aTvXVBk4LPkJ4hY98lZD9k1Lu_VZuLZN0D0ERYNwelHAG93PfiiuMcfxOGfHroLzMVlo6bd6R3RJ_5VJdWMRRKK9RVU5GZB7aQ2FQj4CALgRMDJ329o/p.gif?is_prewarmed=true" style="width:70px; height:70px; border: 2px solid black; border-radius:10px; opacity:.85; border:2px solid #3FE1C4">
+					<div style="text-align:center"><a href="url" style="opacity:.75; color:#C1F32E">Name</a></div>
+				</div>
+				<div class="container w-auto">
+					<img src="https://previews.dropbox.com/p/thumb/ACmRB0AulD0FwhqtMAn8gCu2K2bAQeySCN37CYG0yGPRcNk_cra6Kai45-fsn7_BmpP5pqKXVqMm5Ar2bXR4ZSZ1XFBRDS0FYfBLkc6rtfxvJnWJYEHgo_RGLCZSDh7LCLBNCD_fwlPpSf0WdoFnonOdKVXKb7sPNQZqOdrO2dDZrwWHOxzMJjkBX32BqYI8pVb6cqUS4tYHFoBjtP6yR_dweSu6e6bXPqRn3aTvXVBk4LPkJ4hY98lZD9k1Lu_VZuLZN0D0ERYNwelHAG93PfiiuMcfxOGfHroLzMVlo6bd6R3RJ_5VJdWMRRKK9RVU5GZB7aQ2FQj4CALgRMDJ329o/p.gif?is_prewarmed=true" style="width:70px; height:70px; border: 2px solid black; border-radius:10px; opacity:.85; border:2px solid #3FE1C4">
+					<div style="text-align:center"><a href="url" style="opacity:.75; color:#C1F32E">Name</a></div>
+				</div>
+				<div class="container w-auto">
+					<img src="https://previews.dropbox.com/p/thumb/ACmRB0AulD0FwhqtMAn8gCu2K2bAQeySCN37CYG0yGPRcNk_cra6Kai45-fsn7_BmpP5pqKXVqMm5Ar2bXR4ZSZ1XFBRDS0FYfBLkc6rtfxvJnWJYEHgo_RGLCZSDh7LCLBNCD_fwlPpSf0WdoFnonOdKVXKb7sPNQZqOdrO2dDZrwWHOxzMJjkBX32BqYI8pVb6cqUS4tYHFoBjtP6yR_dweSu6e6bXPqRn3aTvXVBk4LPkJ4hY98lZD9k1Lu_VZuLZN0D0ERYNwelHAG93PfiiuMcfxOGfHroLzMVlo6bd6R3RJ_5VJdWMRRKK9RVU5GZB7aQ2FQj4CALgRMDJ329o/p.gif?is_prewarmed=true" style="width:70px; height:70px; border: 2px solid black; border-radius:10px; opacity:.85; border:2px solid #3FE1C4">
+					<div style="text-align:center"><a href="url" style="opacity:.75; color:#C1F32E">Name</a></div>
+				</div>
+				<div class="container w-auto">
+					<img src="https://previews.dropbox.com/p/thumb/ACmRB0AulD0FwhqtMAn8gCu2K2bAQeySCN37CYG0yGPRcNk_cra6Kai45-fsn7_BmpP5pqKXVqMm5Ar2bXR4ZSZ1XFBRDS0FYfBLkc6rtfxvJnWJYEHgo_RGLCZSDh7LCLBNCD_fwlPpSf0WdoFnonOdKVXKb7sPNQZqOdrO2dDZrwWHOxzMJjkBX32BqYI8pVb6cqUS4tYHFoBjtP6yR_dweSu6e6bXPqRn3aTvXVBk4LPkJ4hY98lZD9k1Lu_VZuLZN0D0ERYNwelHAG93PfiiuMcfxOGfHroLzMVlo6bd6R3RJ_5VJdWMRRKK9RVU5GZB7aQ2FQj4CALgRMDJ329o/p.gif?is_prewarmed=true" style="width:70px; height:70px; border: 2px solid black; border-radius:10px; opacity:.85; border:2px solid #3FE1C4">
+					<div style="text-align:center"><a href="url" style="opacity:.75; color:#C1F32E">Name</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Credits Section *Do No Remove*-->
+	<div class="container p-0 my-3 " style="border:solid 2px #091e17; height:30px; width:150px; border-radius:5px; background-color:#397c53; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); text-align:center">
+		<div class="container row no-gutters">
+			<div style="color: #C1F32E; text-align:center"> Code By <a href="https://toyhou.se/Maietna" style="color: #3FE1C4;">Maietna</a>
+			</div>
+		</div>
+	</div>
+	<br>
+</div>
