@@ -18,6 +18,8 @@ Color List
 #3FE1C4
 
 -->
+<div style="background-color:#0B2253; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png);">	
+	<br>
 	<div class="container p-0" style="width:30%; height: 400px; font-family: Monospace; color:#C1F32E">
 		<div class="container p-2" style="border:3px solid #091e17; background-color:#234c32; background-image:url(https://forums.libretro.com/uploads/default/original/2X/d/d94329912e6bef6b70112b41005e55527a4abf82.png); font-size:25px;">
 			<table style="width:100%; border:none">
